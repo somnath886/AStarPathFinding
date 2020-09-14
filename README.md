@@ -3,6 +3,7 @@
 Given a 2D-array
 
 int arr[3][3] = {
+
 		{0, 0, 0},
 		
 		{0, 0, 0},
